@@ -1,0 +1,1 @@
+del .\*.ilk .\.obk .\*.pdb .\*.exe
